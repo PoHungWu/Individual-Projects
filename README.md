@@ -13,4 +13,4 @@ This project investigates how stock prices respond to earnings surprises across 
 - Google Colab & GitHub integration
 
 ## Author
-Peter Wu | NYU Stern MBA Candidate
+Peter Wu | NYU Stern MBA
