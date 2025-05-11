@@ -1,11 +1,16 @@
-# 📈 Earnings Surprises and Market Reactions
+# Earnings Surprises and Market Reactions: A Cross-Industry Regression Analysis
 
-This project explores how different industries react to earnings surprises using a cross-industry regression framework.  
-It uses real stock return and EPS data from 2000 to 2025 and investigates short-term price reactions around earnings announcements.
+This project investigates how stock prices respond to earnings surprises across different industries using Python-based regression and correlation analysis.
 
-**Key Highlights:**
-- Uses Alpha Vantage API and financial statement data
-- Regression model captures industry- and time-specific interaction effects
-- Technology sector shows the most pronounced response to surprises
+## Key Features
+- Collected and processed historical stock price and earnings data from Alpha Vantage API
+- Built a multi-factor OLS regression model with industry and time-period interactions
+- Visualized statistical results using matplotlib and seaborn
+- Identified stronger EPS-return linkages in the Technology sector
 
-🔗 [Click here to view the full Colab notebook](./Individual_Project_Earnings_Surprises_and_Market_Reactions_Peter_Wu_(Shared_version).ipynb)
+## Tools & Libraries
+- Python, pandas, statsmodels, seaborn, matplotlib, yfinance
+- Google Colab & GitHub integration
+
+## Author
+Peter Wu | NYU Stern MBA Candidate
